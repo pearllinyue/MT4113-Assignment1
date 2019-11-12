@@ -1,4 +1,4 @@
-# MT4113-Assignment1
+# MT4113-Computing in Statistics
 
 ##### Create functions that use the uniform random number generator in R to generate random normal deviates,
 ##### From random normal deviates, create χ2-distributed deviates,
